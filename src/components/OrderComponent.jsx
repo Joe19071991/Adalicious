@@ -41,19 +41,6 @@ const menuItems = [
     image: "🥗",
   },
 ];
-// const OrderComponent = () => {
-//   return (
-//     <div>
-//       {menuItems.map((item, index) => (
-//         <div key={index}>
-//           <span>{item.image}</span>
-//           <h2>{item.plate}</h2>
-//           <p>{item.description}</p>
-//         </div>
-//       ))}
-//     </div>
-//   );
-// };
 
 const OrderComponent = () => {
   return (
